@@ -2,6 +2,6 @@
 <pre>
 You can use cmd or powershell
 wsl --list --online
-wsl --install -d debian
+wsl --install -d Debian
 
 </pre>
